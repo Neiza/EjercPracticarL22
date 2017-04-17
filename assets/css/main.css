@@ -1,6 +1,11 @@
+*{
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+}
+
 p{
-  height: 100PX;
-  margin: 0;
+  height: 100px;
+  width: 20%;
+  margin: 2% 40%;
   padding: 10px;
   box-sizing: border-box;
 }
@@ -8,14 +13,17 @@ p{
 .laboratoria{
   background-color: yellow;
   text-transform:capitalize;
+  vertical-align: top;
 }
 
 .es{
   background-color: pink;
   text-transform: lowercase;
+  vertical-align: middle;
 }
 
 .transformacion{
   background-color: yellow;
   text-transform: uppercase;
+  vertical-align: bottom;
 }
