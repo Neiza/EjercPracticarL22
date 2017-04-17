@@ -1,0 +1,21 @@
+p{
+  height: 100PX;
+  margin: 0;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+.laboratoria{
+  background-color: yellow;
+  text-transform:capitalize;
+}
+
+.es{
+  background-color: pink;
+  text-transform: lowercase;
+}
+
+.transformacion{
+  background-color: yellow;
+  text-transform: uppercase;
+}
