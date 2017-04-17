@@ -2,11 +2,15 @@
   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
 }
 
+body{
+  margin: 20px 0px 10px 120px;
+}
+
 p{
-  float: left;
-  display: inline;
-  margin-left: 4px;
-  margin-right: 4px;
+  display: inline-block;
+  height: 100px;
+  width: 25%;
+  margin: 5px;
   padding: 10px;
   box-sizing: border-box;
 }
